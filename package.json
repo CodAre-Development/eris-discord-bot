@@ -1,0 +1,26 @@
+{
+  "name": "Eris Bot",
+  "version": "0.0.1",
+  "description": "Eris bot.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "eris": "^0.12.0",
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "quick.db": "^7.1.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ]
+}
